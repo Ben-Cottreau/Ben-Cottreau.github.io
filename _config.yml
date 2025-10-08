@@ -23,7 +23,7 @@ repository               : "Ben-Cottreau/Ben-Cottreau.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bco_id.png"
+  avatar           : "bco_pic.png"
   name             : "Benjamin Cottreau"
   pronouns         : # example: "she/her"  
   bio              : "Transport Economics, Explainable and Causal Machine Learning"
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
