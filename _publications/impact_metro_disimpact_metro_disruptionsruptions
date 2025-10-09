@@ -1,0 +1,13 @@
+---
+title: "Spatio-temporal impacts of unplanned service disruptions on public transit demand"
+collection: publications
+category: manuscripts
+permalink: /publication/impact_metro_disruptions
+excerpt: 'This paper shows the impact of metro disruptions on public transport demand. It uses a Gaussian Mixture Model (GMM) to cluster the disruptions relative to the intensity of their impact, and shows what attributes are the most representative of each class using a MultiNomial Logit (MNL)'
+date: 2025-03-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper_impact_metro_disruptions.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
