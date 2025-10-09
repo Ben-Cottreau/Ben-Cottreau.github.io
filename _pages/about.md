@@ -13,7 +13,7 @@ Recent work
 
 **Resilience of public transport in the face of disruptions: Insights from explainable machine learning**  
 
-:watch: June 2025 - [Paper](https://doi.org/10.1016/j.tra.2025.104550) in *Transportation Research Part A: Policy and Practice*
+:watch: September 2025 - [Paper](https://doi.org/10.1016/j.tra.2025.104550) in *Transportation Research Part A: Policy and Practice*
 
 
 
