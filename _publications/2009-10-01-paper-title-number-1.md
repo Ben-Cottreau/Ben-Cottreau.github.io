@@ -1,14 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "Spatio‐temporal patterns of the impact of COVID‐19 on public transit: An exploratory analysis from Lyon, France"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/impact_covid
+excerpt: 'This paper focuses on the impact of COVID-19, as a large scale and long-term disruption, on public transport demand.'
+date: 2023-10-01
+venue: 'Regional Science Policy & Practice'
+slidesurl: 'http://academicpages.github.io/files/slides_impact_covid.pdf'
+paperurl: 'http://academicpages.github.io/files/paper_impact_covid.pdf'
+bibtexurl: 'http://academicpages.github.io/files/bibtex_impact_covid.bib'
+citation: 'Benjamin Cottreau, Adel Adraoui, Ouassim Manout, Louafi Bouzouina,
+&quot;Spatio‐temporal patterns of the impact of COVID‐19 on public transit: An exploratory analysis from Lyon, France&quot;,
+<i>Regional Science Policy & Practice</i>,
+Volume 15, Issue 8,
+2023,
+Pages 1702-1722,
+ISSN 1757-7802,
+[https://doi.org/10.1111/rsp3.12718](https://doi.org/10.1111/rsp3.12718)'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<small>Public transit has been highly impacted by coronavirus disease 2019 (COVID‐19), as well as transport demand in general. Using high‐resolution data from smart card systems, this research investigates spatial and temporal variability of the pandemic's impact on public transit in Lyon, France. The study was conducted with a sample of 95,779 daily records, distributed over years (2019, 2020, and 2021) and public transit stops (520 bus rapid transit stops, 88 tramway stops, and 40 subway stops). Clustering and statistical methods are used to assess changes observed in the data. Findings highlight variability between modes in terms of intensity of impacts, recovery patterns, and stability of the shock over time. Results show that central areas recover worse than peripheral areas and west stops recover worse than east stops. Globally, effects of COVID‐19 clear up over time, but not totally, with a faster recovery for subway. Local analysis on specific stops also suggests that public transit associated with medical facilities endures less COVID‐19 impacts than employment zones or universities.<\small> 
