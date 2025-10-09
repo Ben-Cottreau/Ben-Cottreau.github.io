@@ -6,9 +6,9 @@ permalink: /publication/impact_covid
 excerpt: 'This paper focuses on the impact of COVID-19, as a large scale and long-term disruption, on public transport demand.'
 date: 2023-10-01
 venue: 'Regional Science Policy & Practice'
-slidesurl: 'http://academicpages.github.io/files/slides_impact_covid.pdf'
-paperurl: 'http://academicpages.github.io/files/paper_impact_covid.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex_impact_covid.bib'
+slidesurl: 'http://ben-cottreau.github.io/files/slides_impact_covid.pdf'
+paperurl: 'http://ben-cottreau.github.io/files/paper_impact_covid.pdf'
+bibtexurl: 'http://ben-cottreau.github.io/files/bibtex_impact_covid.bib'
 citation: 'Benjamin Cottreau, Adel Adraoui, Ouassim Manout, Louafi Bouzouina,
 &quot;Spatio‐temporal patterns of the impact of COVID‐19 on public transit: An exploratory analysis from Lyon, France&quot;,
 <i>Regional Science Policy & Practice</i>,
