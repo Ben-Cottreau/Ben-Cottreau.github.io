@@ -1,12 +1,13 @@
 ---
-title: "Transport Modelling (14h)"
+title: "From econometrics to machine learning: Insights from transportation studies"
 collection: talks
-type: "Teaching"
-permalink: /talks/01_teaching
-venue: "ENTPE"
-date: 2023
-location: "Lyon, France"
+type: "Talk"
+permalink: /talks/05_talk
+venue: "KTH, Department of Mathematics"
+date: 2025-09-30
+location: "Stockholm, Sweden"
 ---
+
 
 Introduction to modelling and applications on bikesharing data.
 
