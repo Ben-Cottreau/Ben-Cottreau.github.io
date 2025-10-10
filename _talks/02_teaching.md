@@ -1,7 +1,7 @@
 ---
 title: "Statistics and Data Project (12h)"
-collection: talk
-type: "Talk"
+collection: talks
+type: "Teaching"
 permalink: /talks/02_teaching
 venue: "ENTPE"
 date: 2023
