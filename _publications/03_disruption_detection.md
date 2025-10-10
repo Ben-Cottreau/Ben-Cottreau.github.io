@@ -6,8 +6,8 @@ permalink: /publication/disruption_detection
 excerpt: 'How to detect disruptions with fine-grained demand data? This work provides a fully interpretable modelling framework using tree-based learning.'
 date: 2025-09-01
 venue: 'Transportation Research Part A'
-slidesurl: 'http://academicpages.github.io/files/disruption_detection.pdf'
-paperurl: 'http://academicpages.github.io/files/disruption_detection.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides_disruption_detection.pdf'
+paperurl: 'http://academicpages.github.io/files/paper_disruption_detection.pdf'
 citation: 'Cottreau, B., Celbiş, M.G., Manout, O., &
 Bouzouina, L. (2025). &quot;Detection of subway service disruptions and contribution
 of alternative stops to public transit resilience.&quot; <i>Transportation Research Part A: Policy & Practice.<\i>'
