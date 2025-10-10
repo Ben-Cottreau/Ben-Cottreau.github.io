@@ -6,7 +6,7 @@ permalink: /publication/impact_metro_disruptions
 excerpt: 'This paper shows the impact of metro disruptions on public transport demand. It uses a Gaussian Mixture Model (GMM) to cluster the disruptions relative to the intensity of their impact, and shows what attributes are the most representative of each class using a MultiNomial Logit (MNL)'
 date: 2025-03-01
 venue: 'Journal 1'
-paperurl: 'http://ben-cottreau.github.io/files/bibtex_impact_metro_disruptions.pdf'
+paperurl: 'http://ben-cottreau.github.io/files/paper_impact_metro_disruptions.pdf'
 citation: 'Cottreau, B., Manout, O., & Bouzouina, L.
 (2025).  &quot;Spatio-temporal impacts of unplanned service disruptions on
 public transit demand.&quot; <i>Transportation Research Interdisciplinary Perspective.</i>
