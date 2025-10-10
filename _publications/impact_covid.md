@@ -10,7 +10,7 @@ slidesurl: 'http://ben-cottreau.github.io/files/slides_impact_covid.pdf'
 paperurl: 'http://ben-cottreau.github.io/files/paper_impact_covid.pdf'
 bibtexurl: 'http://ben-cottreau.github.io/files/bibtex_impact_covid.bib'
 citation: 'Cottreau, B., Adraoui, A., Manout, O.,
-& Bouzouina, L. (2023). &quot;Spatio-temporal patterns of the impact
+& Bouzouina, L. (2023). &quot; Spatio-temporal patterns of the impact
 of COVID-19 on public transit: an exploratory analysis
 from Lyon, France.&quot; <i>Regional Science Policy & Practice.</i> DOI:
 https://doi.org/10.1111/rsp3.12718
