@@ -7,6 +7,7 @@ excerpt: 'This paper shows the impact of metro disruptions on public transport d
 date: 2025-03-01
 venue: 'Journal 1'
 paperurl: 'http://ben-cottreau.github.io/files/paper_impact_metro_disruptions.pdf'
+bibtexurl: 'http://ben-cottreau.github.io/files/bibtex_impact_metro_disruptions.bib'
 citation: 'Cottreau, B., Manout, O., & Bouzouina, L.
 (2025).  &quot;Spatio-temporal impacts of unplanned service disruptions on
 public transit demand.&quot; <i>Transportation Research Interdisciplinary Perspective.</i>
