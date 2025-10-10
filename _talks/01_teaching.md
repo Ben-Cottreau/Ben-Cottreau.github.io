@@ -1,7 +1,7 @@
 ---
 title: "Transport Modelling (14h)"
 collection: talk
-type: "Teaching"
+type: "Talk"
 permalink: /talks/01_teaching
 venue: "ENTPE"
 date: 2023-01-01
