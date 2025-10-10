@@ -1,5 +1,5 @@
 ---
-title: "Transport Modelling (14h)"
+title: "Transport Modelling 14h"
 collection: talk
 type: "Talk"
 permalink: /talks/01_teaching
