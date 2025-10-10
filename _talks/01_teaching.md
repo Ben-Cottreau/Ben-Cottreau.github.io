@@ -1,10 +1,10 @@
 ---
-title: "Transport Modelling 14h"
-collection: talk
-type: "Talk"
+title: "Transport Modelling (14h)"
+collection: talks
+type: "Teaching"
 permalink: /talks/01_teaching
 venue: "ENTPE"
-date: 2023-01-01
+date: 2023
 location: "Lyon, France"
 ---
 
