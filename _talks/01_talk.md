@@ -1,5 +1,5 @@
 ---
-title: "Transport Modelling (14h)"
+title: "Transport Modelling"
 collection: talks
 type: "Talk"
 permalink: /talks/01_talk
@@ -9,3 +9,6 @@ location: "Lyon, France"
 ---
 
 Introduction to transport modelling using bike-sharing data.
+
+Level: Bachelor of Engineering, 3rd year. 
+Load: 14h
