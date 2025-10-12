@@ -8,6 +8,6 @@ date: 2025-06-10
 location: "Munich, Germany"
 ---
 
-This talk presents an integrated approach using a module for disruption detection (Random Forest) and a demand forecasting module (LSTM) to better assess mobility behaviours in the event of disruptions. [Video](https://av.tib.eu/media/71520) 
+This talk presents an integrated approach using a module for disruption detection (Random Forest) and a demand forecasting module (LSTM) to better assess mobility behaviours in the event of disruptions. [[Video](https://av.tib.eu/media/71520)]
 
 
