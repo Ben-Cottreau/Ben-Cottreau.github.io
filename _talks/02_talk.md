@@ -4,7 +4,7 @@ collection: talks
 type: "Teaching"
 permalink: /talks/02_talk
 venue: "ENTPE"
-date: 2023
+date: 2023-09-01
 location: "Lyon, France"
 ---
 
