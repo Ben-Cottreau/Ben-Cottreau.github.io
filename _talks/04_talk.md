@@ -1,5 +1,5 @@
 ---
-title: "lmproving public transit demand forecasting models in case of disruptions: an integrated approach using explainable AI"
+title: "Improving public transit demand forecasting models in case of disruptions: an integrated approach using explainable AI"
 collection: talks
 type: "Talk"
 permalink: /talks/04_talk
