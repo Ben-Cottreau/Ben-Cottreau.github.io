@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "Lyon, France"
 ---
 
-Introduction to transport modelling using bike-sharing data.
+Introduction to transport modelling using bike-sharing data. (Load: 14h)
 
 Level: Bachelor of Engineering, 3rd year. 
-Load: 14h
+School Year 2023.
