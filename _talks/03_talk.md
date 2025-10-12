@@ -11,3 +11,4 @@ location: "Lyon, France"
 Review of the basic concepts of inferential statistics and application using R and RStudio. (Load: 16h)
 
 Level: Bachelor of Engineering, 3rd year. 
+School Year 2023.
