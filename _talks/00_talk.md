@@ -1,7 +1,7 @@
 ---
 title: "To what extent does public transit demand persist in the face of COVID-19? A case study from Lyon, France."
 collection: talks
-type: "Teaching"
+type: "Talk"
 permalink: /talks/03_talk
 venue: "16th World Conference on Transportation Research (WCTR)"
 date: 2023-07-17
