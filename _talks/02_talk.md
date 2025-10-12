@@ -1,5 +1,5 @@
 ---
-title: "Mobility and Sustainable Development (42h)"
+title: "Sustainable Mobility (42h)"
 collection: talks
 type: "Teaching"
 permalink: /talks/02_talk
