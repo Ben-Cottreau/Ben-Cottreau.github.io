@@ -3,7 +3,7 @@ title: "Improving public transit demand forecasting models in case of disruption
 collection: talks
 type: "Talk"
 permalink: /talks/04_talk
-venue: "TUM"
+venue: "European Association on Transportation Research (hEART)"
 date: 2025-06-10
 location: "Munich, Germany"
 ---
