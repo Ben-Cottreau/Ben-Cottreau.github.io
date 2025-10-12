@@ -24,7 +24,7 @@ repository               : "Ben-Cottreau/Ben-Cottreau.github.io"
 author:
   # Biographic information
   avatar           : "bco_pic.png"
-  name             : "Benjamin Cottreau"
+  name             : "Benjamin Cottreau, PhD."
   pronouns         : # example: "she/her"  
   bio              : "Transport Economics, Explainable and Causal Machine Learning"
   location         : "Stockholm, Sweden"
