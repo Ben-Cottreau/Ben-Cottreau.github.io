@@ -1,8 +1,8 @@
 ---
-title: "From econometrics to machine learning: Insights from transportation studies"
+title: "Ray test"
 collection: talks
 type: "Talk"
-permalink: /talks/05_talk
+permalink: /talks/01_talk
 venue: "KTH, Department of Mathematics"
 date: 2025-09-30
 location: "Stockholm, Sweden"
