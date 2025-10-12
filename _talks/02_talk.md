@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Mobility (42h)"
+title: "Sustainable Mobility"
 collection: talks
 type: "Teaching"
 permalink: /talks/02_talk
@@ -9,3 +9,6 @@ location: "Lyon, France"
 ---
 
 Introduction to mobility and transport studies through the lens of economic, sociological and environmental analyses.
+
+Level: Bachelor of Engineering, 3rd year. 
+Load: 42h
