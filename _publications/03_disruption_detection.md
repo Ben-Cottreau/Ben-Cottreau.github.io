@@ -6,7 +6,6 @@ permalink: /publication/disruption_detection
 excerpt: 'How to detect disruptions with fine-grained demand data? This work provides a fully interpretable modelling framework using tree-based learning.'
 date: 2025-09-01
 venue: 'Transportation Research Part A: Policy and Practice'
-slidesurl: 'http://ben-cottreau.github.io/files/slides_disruption_detection.pdf'
 paperurl: 'http://ben-cottreau.github.io/files/paper_disruption_detection.pdf'
 bibtexurl: 'http://ben-cottreau.github.io/files/bibtex_disruption_detection.bib'
 citation: 'Cottreau, B., Celbiş, M.G., Manout, O., &
