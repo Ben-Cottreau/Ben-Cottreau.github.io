@@ -8,7 +8,7 @@ redirect_from:
 ---
 My research work focuses on modelling mobility behaviours in the event of disruptions. To this aim, I am interested in using explainable machine learning methods and exploring how they can grasp the irrationality/unlikeliness/novelty of mobility behaviours in these specific contexts, compared to traditional econometric tools.   
 
-I am currently working as a postdoctoral researcher at the **Mathematics Department and the Transport Division at KTH (Stockholm, Sweden)**. Here, I extend my research area to the use of causal machine learning to capture changes in mobility behaviours due to new policy incentives, network design or service disruptions.
+I am currently working as a postdoctoral researcher at the **Department of Mathematics and the Transport Planning Division at KTH (Stockholm, Sweden)**. Here, I extend my research area to the use of causal machine learning to capture changes in mobility behaviours due to new policy incentives, network design or service disruptions.
 
 Recent work
 ------
