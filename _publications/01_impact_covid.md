@@ -6,7 +6,6 @@ permalink: /publication/impact_covid
 excerpt: 'This paper focuses on the impact of COVID-19, as a large scale and long-term disruption, on public transport demand.'
 date: 2023-10-01
 venue: 'Regional Science Policy & Practice'
-slidesurl: 'http://ben-cottreau.github.io/files/slides_impact_covid.pdf'
 paperurl: 'http://ben-cottreau.github.io/files/paper_impact_covid.pdf'
 bibtexurl: 'http://ben-cottreau.github.io/files/bibtex_impact_covid.bib'
 citation: 'Cottreau, B., Adraoui, A., Manout, O.,
