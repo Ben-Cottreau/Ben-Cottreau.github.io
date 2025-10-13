@@ -8,4 +8,4 @@ date: 2025-09-30
 location: "Stockholm, Sweden"
 ---
 
-Econometrics is the field of economics which intends to unveil the decision-making process of individuals and firms: econometricians use statistical tools aiming to understand people's choices and predict their behaviours. Using case studies coming from the transportation field, I will present the main limitations of the traditional econometric approach and identify where machine learning can bridge the gap.
+Econometrics is the field of economics which intends to unveil the decision-making process of individuals and firms: econometricians use statistical tools aiming to understand people's choices and predict their behaviours. Using case studies coming from the transportation field, I will present the main limitations of the traditional econometric approach and identify where machine learning can bridge the gap. [[Slides](http://ben-cottreau.github.io/files/applied_cats_seminar_bco.pdf)]
