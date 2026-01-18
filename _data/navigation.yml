@@ -10,7 +10,7 @@
 main:
   - title: "Publications"
     url: /publications/
-    children:
+    multi:
       - title: "Journal Articles"
         url: /publications/manuscripts/
       - title: "Books"
