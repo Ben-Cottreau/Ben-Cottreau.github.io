@@ -41,37 +41,43 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Dropdown menu for Academic Pages nav */
-.nav-item {
+/* Dropdown menu pour Academic Pages */
+.nav__list > .nav-item {
   position: relative;
 }
 
-.nav-item > .dropdown-menu {
-  display: none; /* caché par défaut */
+.nav__list > .nav-item > .dropdown {
+  display: none;
   position: absolute;
   top: 100%;
   left: 0;
   background: white;
   border: 1px solid #ccc;
+  min-width: 180px;
+  list-style: none;
   padding: 0;
   margin: 0;
-  list-style: none;
-  min-width: 180px;
   z-index: 100;
 }
 
-.nav-item > .dropdown-menu li a {
+/* enfants du dropdown */
+.nav__list > .nav-item > .dropdown li a {
   display: block;
   padding: 6px 12px;
-  color: #333;
   text-decoration: none;
+  color: #333;
 }
 
-.nav-item > .dropdown-menu li a:hover {
+.nav__list > .nav-item > .dropdown li a:hover {
   background: #eee;
 }
 
-.nav-item:hover > .dropdown-menu {
+/* affiche au hover desktop */
+.nav__list > .nav-item:hover > .dropdown {
   display: block;
 }
 
+/* s’assure que les containers parents laissent l’overflow visible */
+.nav__list, .nav__list li {
+  overflow: visible;
+}
