@@ -11,9 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
       - title: "Journal Articles"
-        url: /publications/manuscripts
+        url: /publications/manuscripts/
       - title: "Books"
-        url: /publications/books
+        url: /publications/books/
 
   - title: "Teaching and Talks"
     url: /talks/    
