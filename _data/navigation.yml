@@ -13,6 +13,13 @@ main:
 
   - title: "Teaching and Talks"
     url: /talks/    
+    submenu:
+      - title: "Journal Articles"
+        url: /publications/#manuscripts
+      - title: "Conference Papers"
+        url: /publications/#conferences
+      - title: "Books"
+        url: /publications/#books
 
   #- title: "Teaching"
   #  url: /teaching/    
