@@ -10,11 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    children:
       - title: "Journal Articles"
         url: /publications/manuscripts/
       - title: "Books"
         url: /publications/books/
-
+        
   - title: "Teaching and Talks"
     url: /talks/    
     children:
