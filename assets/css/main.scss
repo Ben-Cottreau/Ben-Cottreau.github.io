@@ -41,34 +41,37 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-// après tous les imports
+/* Dropdown menu for Academic Pages nav */
 .nav-item {
   position: relative;
 }
 
-.nav-item .dropdown {
-  display: none;
+.nav-item > .dropdown-menu {
+  display: none; /* caché par défaut */
   position: absolute;
+  top: 100%;
+  left: 0;
   background: white;
   border: 1px solid #ccc;
-  list-style: none;
   padding: 0;
   margin: 0;
-  min-width: 150px;
-  z-index: 10;
+  list-style: none;
+  min-width: 180px;
+  z-index: 100;
 }
 
-.nav-item .dropdown li a {
+.nav-item > .dropdown-menu li a {
   display: block;
   padding: 6px 12px;
-  text-decoration: none;
   color: #333;
+  text-decoration: none;
 }
 
-.nav-item .dropdown li a:hover {
+.nav-item > .dropdown-menu li a:hover {
   background: #eee;
 }
 
-.nav-item:hover > .dropdown {
+.nav-item:hover > .dropdown-menu {
   display: block;
 }
+
