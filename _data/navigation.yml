@@ -10,15 +10,14 @@
 main:
   - title: "Publications"
     url: /publications/
-    multi:
-      - title: "Journal Articles"
-        url: /publications/manuscripts/
-      - title: "Books"
-        url: /publications/books/
+#    multi:
+#      - title: "Journal Articles"
+#        url: /publications/manuscripts/
+#      - title: "Books"
+#        url: /publications/books/
         
   - title: "Teaching and Talks"
     url: /talks/    
-    children:
 
   #- title: "Teaching"
   #  url: /teaching/    
